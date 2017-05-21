@@ -1,0 +1,12 @@
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\bin\Debug\WeekOneExerciseA.exe.config
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\bin\Debug\WeekOneExerciseA.exe
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\bin\Debug\WeekOneExerciseA.pdb
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.csprojResolveAssemblyReference.cache
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.Form1.resources
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.Properties.Resources.resources
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.csproj.GenerateResource.Cache
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.exe
+c:\users\mcrog\documents\visual studio 2015\Projects\WeekOneExerciseA\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.pdb
+C:\Users\mcrog\Documents\Visual Studio 2015\Projects\WeekOneExerciseAFinal\WeekOneExerciseA\bin\Debug\WeekOneExerciseA.exe.config
+C:\Users\mcrog\Documents\Visual Studio 2015\Projects\WeekOneExerciseAFinal\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.exe
+C:\Users\mcrog\Documents\Visual Studio 2015\Projects\WeekOneExerciseAFinal\WeekOneExerciseA\obj\Debug\WeekOneExerciseA.pdb
